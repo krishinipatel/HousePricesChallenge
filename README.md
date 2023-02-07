@@ -6,7 +6,7 @@
 
 - Metric: Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
 
-Skills:
+Languages and Tools:
 - Python
 - Data Visualisation
 - Pre-processing
