@@ -1,4 +1,4 @@
-# HousePricesChallenge
+# House Prices Prediction
 
 <h3 align="center">Goal: predict the sales price of each house.</h3>
 
