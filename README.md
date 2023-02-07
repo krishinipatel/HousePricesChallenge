@@ -4,4 +4,12 @@
 
 - Dataset [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation)
 
-- ⚡ Type of Project: **Kaggle Challenge**
+- Metric: Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
+
+Skills:
+- Python
+- Data Visualisation
+- Pre-processing
+- Feature Selection
+- Model tuning
+- Correlation Analysis
